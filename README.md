@@ -1,4 +1,4 @@
-# Título del Proyecto
+# Desafío - Always Music
 
 Este proyecto consiste en una aplicación Node.js desarrollada para la escuela de música AlwaysMusic. La aplicación permite realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) en una base de datos PostgreSQL para gestionar la información de los estudiantes de la escuela. 
 
